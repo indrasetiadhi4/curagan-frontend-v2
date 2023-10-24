@@ -1,4 +1,4 @@
-# Curagan
+# Curagan ver2
 
 ## Prerequisite
 
